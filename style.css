@@ -5,10 +5,11 @@ body {
 h1 {
     color: cyan;
     text-align: center;
-    font-size: 35px
+    font-size: 45px
 }
 
 p {
     font-family: verdana;
     font-size: 20px;
+    color: yellow;
 }
