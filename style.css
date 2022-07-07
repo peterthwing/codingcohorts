@@ -8,8 +8,13 @@ h1 {
     font-size: 45px
 }
 
-p {
+p1 {
     font-family: verdana;
     font-size: 20px;
     color: yellow;
+}
+p2 {
+    font-family: verdana;
+    font-size: 20px;
+    color: orange;
 }
